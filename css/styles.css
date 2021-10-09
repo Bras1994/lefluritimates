@@ -2420,7 +2420,7 @@ textarea.form-control {
   line-height: 1.5;
   border-radius: 0.5rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-  margin-top: 2em;
+  /*margin-top: 2em;*/
 }
 @media (prefers-reduced-motion: reduce) {
   .btn {
@@ -10294,8 +10294,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
   background-color: #6c2720;
   color: #fff;
 }
